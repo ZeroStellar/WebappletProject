@@ -1,0 +1,4 @@
+com\hello\zernil\Hibernate\UsersEntity.class
+com\hello\zernil\Config\WebConfig.class
+com\hello\zernil\Controllers\UsersController.class
+com\hello\zernil\Hibernate\UsersRepository.class
